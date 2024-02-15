@@ -1,10 +1,7 @@
 ### Hi there 👋
 my self shreyas Kapse
 1234
-id
-id1.1025 dhjs
-id12.kk
-id451900
+
 
 <!--
 **ShreyasKapse/shreyaskapse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
